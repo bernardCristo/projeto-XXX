@@ -1,7 +1,15 @@
-.ai-branco {
-    background-color: blue;
+ai-branco {
+    background-color: rgb(32, 32, 206);
 }
 
 h1 {
-    background-color: aquamarine;
+    background-color: rgb(8, 25, 173);
+}
+
+h2 {
+    background-color: rgb(79, 51, 204);
+}
+
+ul {
+    background-color: rgb(124, 124, 199);
 }
