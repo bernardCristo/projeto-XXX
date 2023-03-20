@@ -1,5 +1,5 @@
 header{
-    background: linear-gradient(to left,rgb(59, 59, 236),rgb(141, 218, 141))
+    background: linear-gradient(to left,rgb(87, 87, 230),rgb(141, 240, 235))
 }
 p{
     color: black
@@ -17,5 +17,5 @@ li{
     color: black
 }
 ul{
-    text-align: center;
+    background-image:linear-gradient(rgb(63, 63, 209));
 }
