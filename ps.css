@@ -1,21 +1,31 @@
-header{
-    background: linear-gradient(to left,rgb(87, 87, 230),rgb(141, 240, 235))
+img{
+    height: 200px;
 }
-p{
-    color: black
+html{
+    background-image: linear-gradient(to left,white,rgb(25, 126, 241));
 }
 h1{
-    color: black
+    color: rgb(0, 0, 0);
+    
 }
-h2{
-    color:black
+
+nav{
+    box-shadow: inset;
+    background-color: rgb(89, 144, 231);
+    border-left: 10cm;
+
 }
-ul{
-    color: black
+
+header{
+    box-shadow: inset;
+    background-color: rgb(175, 134, 214);
+    
 }
-li{
-    color: black
-}
-ul{
-    background-image:linear-gradient(rgb(63, 63, 209));
+
+button{
+    background-color: rgb(230, 117, 117);
+    color: black;
+    font-size:10;
+    
+    
 }
