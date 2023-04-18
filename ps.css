@@ -11,7 +11,6 @@ h1{
 
 nav{
 
-    background-color: rgb(50, 139, 208);
     font-size:10px
 
 }
@@ -28,6 +27,8 @@ button{
     font-size:10;
     border:12cm;
     color: black;
-    
-    
+
+}
+dialog{
+    padding: 20px;
 }
