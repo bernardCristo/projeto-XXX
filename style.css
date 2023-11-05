@@ -33,8 +33,10 @@ dialog{
     padding: 20px;
 }
 
-body { background-color: White;
-font-family: 'roboto' , sans-serif;
-text-aling: center;
+body {
+    background-color: White;
+    font-family: 'roboto' ,
+    sans-serif;
+    text-aling: center;
 
 }
