@@ -1,21 +1,20 @@
-img{
+img {
     height: 80%;
 }
 div {
     margin: 2em
 }
 
-body{
+body {
     background-color: White;
     font-family: 'roboto' ,sans-serif;
     text-aling: center;
-
 }
 
-ul li{
+ul li {
     margin: 1em
 }
 
-footer p{
+footer p {
     padding: 3em
 }
