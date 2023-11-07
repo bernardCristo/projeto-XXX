@@ -1,33 +1,10 @@
 img{
-    height: 200px;
+    height: 80%;
 }
-
+div {
+    margin: 2em
 }
-h1{
-    color: rgb(0, 0, 0);
-    
 }
-
-nav{
-
-    font-size:10px
-
-}
-    
-}
-
-button{
-    background-color: rgb(230, 117, 117);
-    color: black;
-    font-size:10;
-    border:12cm;
-    color: black;
-
-}
-dialog{
-    padding: 20px;
-}
-
 body{
     background-color: White;
     font-family: 'roboto' ,sans-serif;
