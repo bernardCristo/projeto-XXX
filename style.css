@@ -19,8 +19,8 @@ ul li {
 footer p {
     border-style: solid;
     border-color: black;
-    border-widht: 1em 0em 0em 0em;
-    padding: 5em;
+    border-widht: 2px 0px 0px 0px;
+    padding: 1em;
     text-aling: center;
     margin-botton: 0px;
 }
