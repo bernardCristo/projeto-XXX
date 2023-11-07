@@ -11,3 +11,11 @@ body{
     text-aling: center;
 
 }
+
+ul li{
+    margin: 1em
+}
+
+footer p{
+    padding: 3em
+}
