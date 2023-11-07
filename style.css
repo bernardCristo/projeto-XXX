@@ -1,8 +1,12 @@
 img {
-    height: 80%;
+    height: 20%;
 }
 div {
-    margin: 2em
+    margin: 2em;
+}
+
+div{
+    text-aling: center;
 }
 
 body {
@@ -12,9 +16,9 @@ body {
 }
 
 ul li {
-    margin: 1em
+    margin: 1em;
 }
 
 footer p {
-    padding: 3em
+    padding: 3em;
 }
